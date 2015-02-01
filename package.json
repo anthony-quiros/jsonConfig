@@ -1,7 +1,7 @@
 {
-  "name": "jsonConfig",
+  "name": "json-config-manager",
   "version": "0.1.0",
-  "description": "jsonConfig is a configuration manager for node js application",
+  "description": "json-config-manager is a configuration manager for node js application",
   "main": "jsconfig.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,7 +15,8 @@
     "nodeJS",
     "manager",
     "configuration manager",
-    "json"
+    "json",
+    "jsonconfig"
   ],
   "license": "MIT",
   "bugs": {
