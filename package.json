@@ -1,0 +1,25 @@
+{
+  "name": "jsonConfig",
+  "version": "0.1.0",
+  "description": "jsonConfig is a configuration manager for node js application",
+  "main": "jsconfig.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntSoft/jsonConfig.git"
+  },
+  "keywords": [
+    "configuration",
+    "nodeJS",
+    "manager",
+    "configuration manager",
+    "json"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntSoft/jsonConfig/issues"
+	},
+  "homepage": "https://github.com/AntSoft/jsonConfig"
+}
